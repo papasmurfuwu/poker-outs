@@ -1,0 +1,5 @@
+# Create a program that simulates a poker game scenario, and calculate the OUTS
+
+1. Create list that contains all 52 cards 
+2. Manually input hand combinations 
+3. Done
