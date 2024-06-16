@@ -121,7 +121,7 @@ def simulate_poker():
         print(f"Turn {turn + 1}:")
         print(f"Player's hand: {player_hand}")
         print(f"Community cards: {community_cards}")
-        # print(f"Outs: {outs}")
+        print(f"Outs: {outs}")
         print()
 
 # Run the simulation
